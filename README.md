@@ -1,5 +1,3 @@
-# Your local README content
-
 # The README content from GitHub
 https://colab.research.google.com/drive/1E5A1wfmph0PfPQEWkT-D8k-RQDw03MHt
 ## 📉 Trader Profitability by Market Sentiment
