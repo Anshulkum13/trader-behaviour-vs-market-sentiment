@@ -1,3 +1,6 @@
+# Your local README content
+
+# The README content from GitHub
 https://colab.research.google.com/drive/1E5A1wfmph0PfPQEWkT-D8k-RQDw03MHt
 ## 📉 Trader Profitability by Market Sentiment
 
@@ -10,3 +13,7 @@ https://colab.research.google.com/drive/1E5A1wfmph0PfPQEWkT-D8k-RQDw03MHt
 | Neutral         | 2,756  | ₹27.09   | ₹142.95 | −₹1,032.98  | ₹0.00  | ₹9.27   | ₹2,979.55   |
 
 Traders perform best during **Extreme Greed**, but face the greatest losses during **Greed** and **Fear**. Neutral sentiment offers stability, while Extreme Fear reflects minimal gains and defensive behavior.
+=======
+# trader-behaviour-vs-market-sentiment
+This data science project analyzes how trader performance and strategy vary across different market sentiment conditions — including Fear, Greed, Extreme Fear, Extreme Greed, and Neutral. Using real trade data and sentiment classifications, the project explores behavioral patterns in profitability, trade direction, risk exposure, and cost sens
+>>>>>>> 276e1976d1790e748e070004ad2918a3cd08c153
